@@ -11,6 +11,8 @@
   */
   margin-bottom: 32px;
   overflow-x: auto;
+
+  isolation: isolate;
 }
 
 .title {
